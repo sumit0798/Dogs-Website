@@ -1,2 +1,2 @@
-# Dogs-Website
+# TinDog
 HTML,CSS,Bootstrap
